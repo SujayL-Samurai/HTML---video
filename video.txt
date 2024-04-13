@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <body bgcolor="Black">
+        <title>Sujay's First Website</title>
+        <h1>My Initial Boxing Days</h1>
+        <h3>2018</h3>
+        <br>
+        <a>
+          <video src="Sujay_Early Boxing Days.mp4"
+          controls height="500", width="900" autoplay muted loop></video>  
+        </a>
+        <br>
+        <br>
+        <h2>Description</h2>
+        <br>
+        <hr>
+        
+        <pre>
+            
+            I started Boxing after watching the movie Rocky(1974) starring Sylvester Stallone.
+            Then I started watching real boxing matches of many great boers like Muhammad Ali, Mike Tyson and others.
+        
+        </pre>
+    </body>
+</html>
